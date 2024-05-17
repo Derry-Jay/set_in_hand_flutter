@@ -1,0 +1,11 @@
+{
+    "Login": "login",
+    "asset_image_path": "assets/images/",
+    "live":"http://simia.setinhand.com/api/",
+    "dev": "https://setinhandflutter.cyb.co.uk/api/",
+    "testing": "http://testing.setinhand.cyb.co.uk/api/",
+    "staging": "https://setinhand-staging.cyb.co.uk/api/",
+    "Get_Completed_Deliveries": "getCompletedDeliveries/",
+    "Get_Copleted_Deliveries_Details": "getDeliveryDetails/",
+    "bucket_path": "https://s3.eu-west-2.amazonaws.com/cyberlive-s3-bucket/"
+}

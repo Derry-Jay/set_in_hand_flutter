@@ -1,0 +1,10 @@
+{
+    "EMPTY_USERNAME": "Please enter the username",
+    "EMPTY_PASSWORD": "Please enter the password",
+    "INVALID_USERNAME": "Please enter the proper email id",
+    "INVALID_PASSWORD": "Please enter the proper password",
+    "pleaseWait": "Please Wait",
+    "STOCKCODE_EMPTY": "Please enter the stock code",
+    "BOX_EMPTY": "Please enter the number of boxes",
+    "QTY_BOX_EMPTY": "Please enter the quantity of boxes"
+}
